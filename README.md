@@ -18,5 +18,5 @@
 RAG/
 ├── 📁 documents/       # Knowledge base storage (PDFs, text files, etc.)
 ├── 📄 rag.py           # Core RAG pipeline & execution script
-├── 📄 .env              # MODEL API KEY
+├── ⚙️.env               # API KEY
 └── 📄 requirements.txt # Project dependencies
