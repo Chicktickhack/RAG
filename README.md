@@ -1,4 +1,4 @@
-# RAG Ollama OllamaEmbeddings
+# RAG OllamaEmbeddings
 
 <p align="center">
   <b>A lightweight, efficient Retrieval-Augmented Generation pipeline built for seamless document querying and context-aware AI responses.</b>
